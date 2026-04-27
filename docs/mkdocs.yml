@@ -39,6 +39,7 @@ nav:
   - API:
     - Quickstart: java-api-quickstart.md
     - API: api.md
+    - Examples: practical-examples.md
     - File I/O: fileio.md
     - Javadoc: ../../javadoc/latest/
   - Integrations:
@@ -72,6 +73,8 @@ nav:
     - jdbc.md
     - custom-catalog.md
     - nessie.md
+  - Troubleshooting:
+    - troubleshooting.md
   - Storage:
     - AWS S3: aws/#s3-fileio
     - Dell ECS: dell.md
